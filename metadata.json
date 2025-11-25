@@ -1,0 +1,5 @@
+{
+  "name": "Double Slit 3D Simulation",
+  "description": "A 3D interactive physics simulation of the Double-Slit Experiment demonstrating wave-particle duality and interference patterns.",
+  "requestFramePermissions": []
+}
